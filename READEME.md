@@ -18,9 +18,9 @@ Mình nhận được 3 yêu cầu đặt buffet, nhưng chưa rõ bạn muốn 
 NUONG: ngày 19/12/2026, 2 người lớn + 1 trẻ em, khu vực trong nhà.
 HAISAN: ngày 03/01/2027, 3 người lớn, chưa chọn khu vực. Ghi chú: 1 người dị ứng sữa.
 LAU: ngày 25/12/2026, 4 người lớn, khu vực sân vườn. Ghi chú: ông ngoại đi xe lăn.
-
-**Link trò chuyện:https://claude.ai/share/bc9657ba-bf32-4a07-bc97-1125f3fdecc9**
 ```
+**Link trò chuyện: https://claude.ai/share/bc9657ba-bf32-4a07-bc97-1125f3fdecc9**
+
 ## 4.3. Báo giá bằng Chain-of-Thought
 
 **KET QUA AI**
