@@ -23,8 +23,8 @@ Tên Khách hàng [TEN_KHACH_HANG], số điện thoại [SO_DIEN_THOAI],số CC
 **CAU LENH**
 
 ```text
-Câu 1: Chỉ trả lời dựa trên file đính kèm và không được thêm các thông tin khác vào, sử dụng từ ngữ chính xác
-Câu 2: Trả 
+Câu 1: chỉ trả lời dựa trên nội dung trong file chính sách hoàn/hủy vé đính kèm, không tự bịa thêm thông tin; nếu file không nhắc tới, hãy trả lời đúng câu: "Tài liệu hiện tại không có thông tin về quy định này."
+Câu 2: Ghi rõ câu trả lời được lấy từ mục hoặc điều khoản nào trong file đính kèm
 ```
 
 ## 4.2. Trích xuất tin nhắn đặt bàn ra JSON
